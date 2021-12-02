@@ -22,9 +22,11 @@ process 전체가 메모리 내에 올라오지 않더라도 실행이 가능하
   * 선택한 메뉴 하나만 메인 메모리에 적재하고 나머지는 메인 메모리에서 내보내도 된다.
 
 > 논리적 주소, 프로그램 주소
+
   실행중인 프로세스가 참조하는 주소
 
 > 매핑(mapping)
+
   가상 주소를 물리적 주소로 변환하는 과정, MMU(Memory Management Unit)이라는 HW에 의해 지원된다.
 
 
@@ -44,10 +46,14 @@ process 전체가 메모리 내에 올라오지 않더라도 실행이 가능하
 
 > 선입선출 대치 알고리즘(FIFO, First In, First Out)
 
+
 > 최적 페이지 대치 알고리즘(OPT, Optimal replacement)
+
 
 > 최근 최소 사용 대치 알고리즘(LRU, Least Recently Used)
 
+
 > NUR 알고리즘(Not used Recently)
+
 
 >
