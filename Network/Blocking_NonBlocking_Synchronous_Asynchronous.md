@@ -48,3 +48,6 @@
       * 어떤 이벤트에 의해 호출되어지는 함수
 
 
+## Sync~
+
+![synchnonsync](https://user-images.githubusercontent.com/62277037/145331786-0b39eb56-7564-4cc2-9948-cf0a414e8676.PNG)
